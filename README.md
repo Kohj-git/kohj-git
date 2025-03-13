@@ -3,7 +3,7 @@
 </h1>
 
 <br />
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=millejuice.millejuice" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kohj.kohj" />
 <br />
 
 <h3 align="center">Why Not Change the World🇰🇷</h3>
