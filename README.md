@@ -26,8 +26,8 @@
   <br/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=millejuice&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
  
-  <a href="https://solved.ac/백준아이디/">
-  > 🚧 이 프로젝트는 현재 진행 중입니다. 🚧
+  
+  
 </a>
 </div>
 
