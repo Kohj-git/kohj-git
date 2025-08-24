@@ -14,7 +14,7 @@
 
 🍀 Student of Handong Global University 🍀
 
-✅ I’m currently learning **Docker, Spring, AWS**
+✅ I'm currently learning **Docker, Spring, AWS**
 
 </div>
 
@@ -26,12 +26,13 @@
 <div align="center">
  
   <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=Kohj-git&theme=react" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohj-git&layout=compact&theme=react&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kohj-git&show_icons=true&theme=react&hide_border=true" />
 </div>
 
 ---
