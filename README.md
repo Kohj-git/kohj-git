@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=This+is+Kohj🌵;&color=90EE90" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=This+is+Kohj🌵&color=90EE90&background=2F4F4F&pause=1000000" />
 </h1>
 
 <br />
@@ -24,13 +24,9 @@
 <br>
 
 <div align="center">
+ 
   <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=Kohj-git&theme=react" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kohj-git&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohj-git&layout=compact&theme=react&hide_border=true" />
 </div>
 
 ---
