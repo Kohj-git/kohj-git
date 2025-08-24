@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohj-git&layout=compact&theme=react&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohj-git&layout=compact&theme=react&hide_border=true" />
 </div>
 
 ---
